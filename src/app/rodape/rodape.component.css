@@ -11,7 +11,7 @@ ul.social-network li {
 
 .fa{
     font-size:35pt;
-    color: white;
+    color: black;
     padding: 10px;
 }
 .fa-facebook-square:hover {
@@ -22,4 +22,8 @@ ul.social-network li {
 }
 .fa-github-square:hover{
     color:black
+}
+
+.bgcolor{
+    background-color: #FBE122;
 }
